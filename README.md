@@ -18,13 +18,14 @@ Lemenkova, P. Factor Analysis by R Programming to Assess Variability Among
 Environmental Determinants of the Mariana Trench. Turkish Journal of Maritime
 and Marine Sciences 2018, 4(2), 146-155.
 
-- DOI (figshare): https://doi.org/10.6084/m9.figshare.7358207
-- arXiv:          https://arxiv.org/abs/1812.00989 (physics.geo-ph)
-- EarthArXiv:     https://eartharxiv.org/es9ka/
-- HAL:            https://hal.archives-ouvertes.fr/hal-01948977
-- Zenodo:         https://zenodo.org/record/2094101
-- SSRN:           https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3296819
-- Journal:        http://edergi.odu.edu.tr/ojs/index.php/JMMS/article/view/426 (ISSN 2564-7016)
+- arXiv:      https://arxiv.org/abs/1812.00989v1 (physics.geo-ph)
+- arXiv DOI:  https://doi.org/10.48550/arXiv.1812.00989
+- EarthArXiv: https://eartharxiv.org/es9ka/
+- HAL:        https://hal.archives-ouvertes.fr/hal-01948977
+- Zenodo:     https://zenodo.org/record/2094101
+- SSRN:       https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3296819
+- figshare:   https://doi.org/10.6084/m9.figshare.7358207
+- Journal:    http://edergi.odu.edu.tr/ojs/index.php/JMMS/article/view/426 (ISSN 2564-7016)
 
 ## Scripts
 
@@ -87,9 +88,5 @@ If you use the Mariana Trench script, please cite:
 
 Lemenkova, P. Factor Analysis by R Programming to Assess Variability Among
 Environmental Determinants of the Mariana Trench. Turkish Journal of Maritime
-and Marine Sciences 2018, 4(2), 146-155.
-https://doi.org/10.6084/m9.figshare.7358207
-
-## License
-
-See the LICENSE file in this repository.
+and Marine Sciences 2018, 4(2), 146-155. arXiv:1812.00989.
+https://doi.org/10.48550/arXiv.1812.00989
